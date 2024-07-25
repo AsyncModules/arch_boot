@@ -12,6 +12,7 @@ preempt = ["axtrap/preempt", "irq"]
 smp = ["axruntime/smp"]
 irq = ["axtrap/irq"]
 fp_simd = []
+async = ["axtrap/async"]
 
 default = []
 
